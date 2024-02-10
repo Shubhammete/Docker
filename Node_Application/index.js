@@ -1,0 +1,1 @@
+console.log("My First Docker Image 🐳")
